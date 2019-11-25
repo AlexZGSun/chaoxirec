@@ -1,5 +1,5 @@
 # ChaoxiRec
-##### _Patient controlled Chaoxi records_
+##### _Chaoxi psychological counseling records blockchain system_
 
 ---
 
@@ -10,7 +10,7 @@ https://www.chaoxi.xin
 - Database Manager - API written in GoLang that provides access to an underlying database. R/W access is governed by permissions stored on the blockchain.
 - Ethereum Client - A pointer to the go-ethereum codebase
 - SmartContracts - The Solidity contracts and their tests that are used by other MedRec components
-- UserClient - A front-facing node app that can be used by any party to interact with the MedRec system.
+- UserClient - A front-facing node app that can be used by any party to interact with the ChaoxiRec system.
 
 This project is being developed under the GPLv2 LICENSE.
 
@@ -20,7 +20,7 @@ This project is being developed under the GPLv2 LICENSE.
 
 Install golang from the repositories for your operating system (apt, yum, homebrew, etc.) or from the golang website. https://golang.org/dl/
 
-Then build the go components of medred
+Then build the go components of ChaoxiRec
 ```
 $ go build
 ```
