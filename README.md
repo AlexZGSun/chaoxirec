@@ -1,9 +1,9 @@
-# MedRec
-##### _Patient controlled medical records_
+# ChaoxiRec
+##### _Patient controlled Chaoxi records_
 
 ---
 
-https://medrec.media.mit.edu
+https://www.chaoxi.xin
 
 ### Components
 
